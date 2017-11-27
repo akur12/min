@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "chalk": "^2.3.0",
-    "delay": "^2.0.0",
+    "delay": "^3.0.0",
     "instagram-private-api": "^0.6.7",
     "request": "^2.83.0",
     "request-promise": "^4.2.2"
